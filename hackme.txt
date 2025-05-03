@@ -1,0 +1,1 @@
+Congratulations! You found the hidden flag: THM{file_upload_success}
